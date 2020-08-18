@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@firebase/testing": "^0.20.11",
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.0"
+  }
+}
